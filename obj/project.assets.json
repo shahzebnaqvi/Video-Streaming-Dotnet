@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dg-pk-mac/Downloads/Video-Stream-master/testvideostream/testvideostream.csproj",
+      "projectUniqueName": "/Users/dg-pk-mac/Downloads/Video-Stream-master/testvideostream.csproj",
       "projectName": "testvideostream",
-      "projectPath": "/Users/dg-pk-mac/Downloads/Video-Stream-master/testvideostream/testvideostream.csproj",
+      "projectPath": "/Users/dg-pk-mac/Downloads/Video-Stream-master/testvideostream.csproj",
       "packagesPath": "/Users/dg-pk-mac/.nuget/packages/",
-      "outputPath": "/Users/dg-pk-mac/Downloads/Video-Stream-master/testvideostream/obj/",
+      "outputPath": "/Users/dg-pk-mac/Downloads/Video-Stream-master/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dg-pk-mac/.nuget/NuGet/NuGet.Config"
